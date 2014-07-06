@@ -1,0 +1,102 @@
+h1 {
+	font-family:Arial;
+	font-size: 28px;
+}
+h2 {
+	font-family: Arial;
+	font-size: 20px;
+}
+h3 {
+	font-family: Garamond;
+	font-size: 14px;
+}
+p {
+	font-family: Garamond;
+	font-size: 14px;
+}
+li {
+	font-family: Garamond;
+	font-size: 14px;
+}
+* {
+	background-color: #FFEBCD
+}
+a {
+	color:#000000;
+}
+.hi {
+	color:#00008B;
+}
+#one {
+	color:orange;
+}
+#two {
+	color:green;
+}
+#three {
+	color:blue;
+}
+div {
+	border-radius:5px;
+	display:inline-block;
+}
+#header {
+	z-index:1;
+	position:relative;
+	width:118.3em;
+	height:5em;
+	background-color:gray;
+}
+.left {
+	float:left;
+}
+#right1 {
+	float:right;
+	margin-top:50px;
+}
+#right2 {
+	float:right;
+	margin-top:125px;
+	margin-right:-199px;
+}
+#right3{
+	float:right;
+	margin-top:230px;
+	margin-right:-225px;
+}
+#right4{
+	float:right;
+	margin-top: 370px;
+	margin-right:-225px;
+}
+#right5{
+	float;right;
+	margin-top: 25px;
+	margin-left: 805px;
+}
+#right6{
+	float:right;
+	margin-top: 18px;
+}
+#right7{
+	float:right;
+	margin-top:42px;
+	margin-left:805px;
+}
+#right8{
+	float:right;
+	margin-top:102px;
+}
+#right9{
+	float:right;
+	margin-top:180px;
+	margin-right:-200px;
+}
+#right10{
+	float:right;
+	margin-top:255px;
+	margin-right:-225px;
+}
+#footer {
+	clear:both;
+}
